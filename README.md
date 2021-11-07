@@ -27,3 +27,8 @@ Figura 2: Ingresos e Informalidad
 Figura 3: Gini   e Informalidad
 
 <img src="Imagen/Empleo_5.png" width="400">
+
+
+Figura 4: Ni trabajan Ni Estudian
+
+<img src="Imagen/Mapa_Ninis_2018.png" width="400">
